@@ -10,10 +10,10 @@ To try it out, download the Expo Go app and scan the QR code below.
 
 ## Screenshots
 
-<picture float="left">
+<p>
 <img src="./assets/images/goal-app.webp" alt="drawing" width="150"/>
 <img src="./assets/images/goal-app-2.webp" alt="drawing" width="150"/>
-</picture>
+</p>
 
 ### Author
 
