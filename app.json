@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "goal-setter-mobile-app",
-    "slug": "react-native-test-project",
+    "slug": "Goal Setter Mobile App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/goal.png",
+    "icon": "./assets/images/goal-black.png",
     "backgroundColor": "#1e085a",
     "userInterfaceStyle": "light",
     "splash": {
