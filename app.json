@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "goal-setter-mobile-app",
-    "slug": "Goal Setter Mobile App",
+    "slug": "Goal-Setter-Mobile-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/goal-black.png",
